@@ -1,0 +1,15 @@
+artifact_uri: file:///work/NLP22_Group6/mlruns/0/f0c573ad795548068ca82c7849ef4538/artifacts
+end_time: 1653544623828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f0c573ad795548068ca82c7849ef4538
+run_uuid: f0c573ad795548068ca82c7849ef4538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653544604236
+status: 3
+tags: []
+user_id: root
